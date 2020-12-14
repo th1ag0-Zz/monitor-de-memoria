@@ -1,4 +1,4 @@
-## Monitor de Mémoria Ram com NodeJS
+## Monitor de Memória Ram com NodeJS
 <img src=".github/print.png">
 
 ### Requisitos (ter instalado na máquina):
