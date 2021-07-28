@@ -3,7 +3,7 @@
 
 ### Requisitos (ter instalado na máquina):
 * Git
-* NodeJS
+* NodeJS (v14)
 
 ### Como usar:
 Abra seu terminal e digite o comando:
